@@ -1,6 +1,6 @@
 <?php
-$pageId 		= "process"; 
-$pageTitle 	= "Utvecklingsprocesser för Medes"; 
+$pageId 		= "home"; 
+$pageTitle 	= "Hemsida för opensource-projektet Medes"; 
 include("header.php"); 
 ?>
 
@@ -12,9 +12,9 @@ include("header.php");
 
 <article>
 	<section>
-		<h1>Utvecklingsprocesser</h1>
+		<h1>Medes</h1>
 
-		<p><a href="http://gitster.livejournal.com/30313.html">GitHub och utveckling i team med remote branches</a>.
+		<p>Text.
 			
 		<p>&nbsp;
 		<p>&nbsp;

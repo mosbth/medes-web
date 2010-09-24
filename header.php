@@ -49,8 +49,6 @@ error_reporting(-1);
 			<a id="download-" 			href="download.php">Ladda ned</a> 
 			<a id="license-"   			href="license.php">Licens</a> 
 			<a id="philosophy-" 		href="philosophy.php">Filosofi</a> 
-			<a id="tools-"   				href="tools.php">Utvecklingsmiljö</a> 
-			<a id="process-" 				href="process.php">Processer</a> 
 			<a id="contribute-" 		href="contribute.php">Jag vill bidra</a> 
 			<a id="documentation-"	href="documentation.php">Dokumentation</a> 
 		</nav>
